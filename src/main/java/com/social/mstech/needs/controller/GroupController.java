@@ -15,7 +15,7 @@ import com.social.mstech.needs.dto.response.CreateGroupResponse;
 import com.social.mstech.needs.service.GroupService;
 
 /**
- * Controller class.
+ * Controller class. CRUD Service for Groups.
  * 
  * @author Somasundaram Munirathnam
  *
