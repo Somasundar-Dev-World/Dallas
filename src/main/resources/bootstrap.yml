@@ -1,0 +1,21 @@
+spring: 
+  application: 
+    name: MsTech-Needs
+  #cloud: 
+   # config:      
+    #  uri: ${vcap.services.configServerURL.credentials.uri:http://user:password@nam-ccp-fintech-configserver2-dev3.cfapps-gcg-nonprd.nam.nsroot.net}
+     # enabled: true
+  
+#eureka:
+ # client:
+  #  serviceUrl:
+   #   defaultZone: ${vcap.services.eurekaURL.credentials.uri:http://user:password@nam-ccp-fintech-eureka-dev3.cfapps-gcg-nonprd.nam.nsroot.net}
+
+#logging:
+ #   level:
+  #      org.springframework: INFO
+   #     com.citi: DEBUG
+        #com.citigroup: DEBUG
+        #com.netflix: DEBUG
+        #com.netflix.eureka: DEBUG
+        #com.netflix.discovery: DEBUG
