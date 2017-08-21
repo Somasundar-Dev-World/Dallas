@@ -14,6 +14,12 @@ import com.social.mstech.needs.dto.request.Group;
 import com.social.mstech.needs.dto.response.CreateGroupResponse;
 import com.social.mstech.needs.service.GroupService;
 
+/**
+ * Controller class.
+ * 
+ * @author Somasundaram Munirathnam
+ *
+ */
 @RestController
 @RequestMapping("/groups/action")
 public class GroupController {
