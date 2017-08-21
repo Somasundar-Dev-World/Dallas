@@ -17,7 +17,7 @@ import com.social.mstech.needs.service.GroupService;
 /**
  * Controller class.
  * 
- * @author Somasundaram M
+ * @author Somasundaram Muni
  *
  */
 @RestController
